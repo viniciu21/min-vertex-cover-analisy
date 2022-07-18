@@ -1,0 +1,5 @@
+| Solucao Algoritmo | Tempo Algoritmo   | Num.Vértices     | Num. Arestas |     Melhor Solução | 
+|                   3|                   14|                   6|6|                  Melhor Solução | 
+                   |3                  | 14                  | 6                 |6|  Melhor Solução |
+                   |3                  | 20                  | 6                 |6|  Melhor Solução |
+         |3                  | 16                  | 6                 |6| Melhor Solução |

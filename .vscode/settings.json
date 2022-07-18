@@ -9,6 +9,10 @@
         "regex": "cpp",
         "utility": "cpp",
         "valarray": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp"
     }
 }
