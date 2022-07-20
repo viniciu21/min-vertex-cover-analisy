@@ -1,5 +1,12 @@
-| Solucao Algoritmo | Tempo Algoritmo   | Num.Vértices     | Num. Arestas |     Melhor Solução | 
-|                   3|                   14|                   6|6|                  Melhor Solução | 
-                   |3                  | 14                  | 6                 |6|  Melhor Solução |
-                   |3                  | 20                  | 6                 |6|  Melhor Solução |
-         |3                  | 16                  | 6                 |6| Melhor Solução |
+| Solucao Algoritmo | Tempo Algoritmo (microseconds) | Num.Vértices     | Num. Arestas |      Melhor Solução | 
+|3                  | 18                             | 6                |6             |                   3 |
+|2                  | 552                            | 8                |16            |                   2 |
+|6                  | 13                             | 7                |6             |                   2 |
+|3                  | 62                             | 10               |13            |                   3 |
+|5                  | 613                            | 14               |15            |                   4 |
+|4                  | 1087                           | 13               |18            |                   4 |
+|12                 | 422                            | 6                |12            |                   3 |
+|4                  | 42                             | 8                |8             |                   4 |
+|4                  | 49                             | 9                |9             |                   4 |
+|1                  | 92                             | 10               |10            |                   1 |
+    
