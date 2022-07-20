@@ -96,15 +96,13 @@ bool coberto(int arestas, int meio, int vertices, bool grafo[100][100])
             }
         }
 
+        inicio = recalcularinicio(inicio);
         if (contadorDeVertices == vertices)
         {
             result = true;
             return result;
         }
-
-        inicio = recalcularinicio(inicio);
     }
-    result = false;
     return result;
 }
 
