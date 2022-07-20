@@ -225,10 +225,10 @@ int main(int argc, char **argv)
         gph->adicionarAresta(3, 6);
         gph->adicionarAresta(3, 8);
         gph->adicionarAresta(3, 4);
-        gph->adicionarAresta(6, 5);
         gph->adicionarAresta(5, 7);
         gph->adicionarAresta(7, 8);
         gph->adicionarAresta(8, 4);
+        gph->adicionarAresta(7, 6);
 
         break;
     }

@@ -1,0 +1,2 @@
+| Solucao Algoritmo | Tempo Algoritmo (microseconds) | Num.Vértices     | Num. Arestas |     Melhor Solução | 
+         |2                  | 19721                  | 8                 |16         | Melhor Solução |
